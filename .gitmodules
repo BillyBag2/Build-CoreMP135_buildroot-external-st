@@ -1,0 +1,6 @@
+[submodule "sources/CoreMP135_buildroot"]
+	path = sources/CoreMP135_buildroot
+	url = git@github.com:m5stack/CoreMP135_buildroot.git
+[submodule "sources/CoreMP135_buildroot-external-st"]
+	path = sources/CoreMP135_buildroot-external-st
+	url = git@github.com:m5stack/CoreMP135_buildroot-external-st.git
